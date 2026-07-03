@@ -27,6 +27,9 @@ $on-laptop:        800px !default;
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
 
+$grey-color-light: lighten($grey-color, 42%) !default;
+$grey-color-dark:  darken($grey-color, 18%) !default;
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;

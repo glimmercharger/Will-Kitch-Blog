@@ -1,5 +1,137 @@
 // Placeholder to allow defining custom styles that override everything else.
 
+body {
+  background: #002b36;
+  color: #93a1a1;
+}
+
+a {
+  color: #268bd2;
+}
+
+a:visited {
+  color: #268bd2;
+}
+
+code {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  color: #93a1a1;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+}
+
+.site-header,
+.site-footer {
+  background: #002b36;
+  border-color: rgba(131, 148, 150, 0.18);
+}
+
+.site-title {
+  color: #93a1a1 !important;
+  font-size: 1.15rem;
+}
+
+.site-title:hover,
+.site-title:focus-visible {
+  color: #eee8d5 !important;
+}
+
+.site-nav-inline {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.nav-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+.nav-item {
+  color: #93a1a1;
+  text-decoration: none;
+}
+
+.nav-item:hover,
+.nav-item:focus-visible {
+  color: #eee8d5;
+  text-decoration: none;
+}
+
+.page-content {
+  padding: 3rem 0 4rem;
+}
+
+.wrapper {
+  max-width: 860px;
+}
+
+.home,
+.post,
+.page {
+  color: #93a1a1;
+}
+
+.home h1,
+.post h1,
+.page h1,
+.post-list-heading {
+  color: #93a1a1;
+}
+
+.post-link {
+  color: #268bd2;
+}
+
+.post-link:hover,
+.post-link:focus-visible {
+  color: #2aa198;
+}
+
+.site-footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.footer-col-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.footer-col {
+  flex: 1 1 260px;
+}
+
+.footer-col p,
+.footer-col li,
+.footer-col a,
+.contact-list,
+.social-media-list {
+  color: #93a1a1;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.25rem;
+}
+
+.social-media-list {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
 .footer-commit {
   width: 100%;
   display: flex;
@@ -7,6 +139,7 @@
   margin-top: 0.75rem;
   text-align: center;
   font-size: 0.8rem;
+  color: #93a1a1;
 }
 
 .commit-link {
@@ -24,7 +157,17 @@
 .commit-link:hover,
 .commit-link:focus-visible {
   opacity: 1;
+  color: #eee8d5;
   text-decoration: underline;
+}
+
+.commit-link:hover .commit-text,
+.commit-link:focus-visible .commit-text,
+.commit-link:hover .commit-hash,
+.commit-link:focus-visible .commit-hash,
+.commit-link:hover .commit-icon,
+.commit-link:focus-visible .commit-icon {
+  color: #eee8d5;
 }
 
 .commit-icon {
