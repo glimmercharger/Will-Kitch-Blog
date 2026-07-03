@@ -1,4 +1,4 @@
-I'm drawing my 3rd year at high school to a close, after seeing [@freddie's post](https://www.linkedin.com/in/freddie-yershon/) about his reflection I thought I would do the same. 
+I'm drawing my 3rd year at high school to a close, after seeing [@freddie's post]([https://www.linkedin.com/in/freddie-yershon/](https://www.linkedin.com/posts/freddie-yershon_hippogriffs-blog-share-7475962481023102976-zZEJ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFLAk6UBxzH-3dntz8lyn0EqPQz2Ge0KZHM)) about his reflection I thought I would do the same. 
 
 This year has completely changed how I think how of myself, while writing this I took some time to self reflect this year.
 
