@@ -1,0 +1,43 @@
+// Placeholder to allow defining custom styles that override everything else.
+
+.footer-commit {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 0.75rem;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+.commit-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.9;
+  transition: opacity 0.2s ease;
+}
+
+.commit-link:hover,
+.commit-link:focus-visible {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.commit-icon {
+  line-height: 1;
+}
+
+.commit-text {
+  max-width: min(90vw, 560px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.commit-hash {
+  font-family: $code-font-family;
+}

@@ -1,0 +1,25 @@
+title: Will Kitch Blog
+description: >-
+  Notes, essays, and updates from Will Kitch.
+author:
+  name: Will Kitch
+  email: hello@willkitch.me
+
+url: https://blog.willkitch.me
+
+permalink: /:year/:month/:day/:title/
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: solarized-dark
+  nav_pages:
+    - about.md
+  show_excerpts: false
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/glimmercharger
