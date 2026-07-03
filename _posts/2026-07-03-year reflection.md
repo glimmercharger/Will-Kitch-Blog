@@ -1,6 +1,4 @@
-I saw a post from Freddie and he inspired me to write my own academic year reflection:
-
-I'm drawing my 3rd year at high school to a close, after seeing @freddie's post about his reflection I thought I would do the same. 
+I'm drawing my 3rd year at high school to a close, after seeing [@freddie's post](https://www.linkedin.com/in/freddie-yershon/) about his reflection I thought I would do the same. 
 
 This year has completely changed how I think how of myself, while writing this I took some time to self reflect this year.
 
