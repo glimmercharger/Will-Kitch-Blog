@@ -27,4 +27,5 @@ Finally, to the person reading this and to the person I'm showing this to I want
 If you want to call this an essay then go ahead but ironically what makes this different from anything I've written like this for a while, I haven't asked AI to check this, I didn't ask for anyone's opinion, it was just me and my thoughts. With Apple Music soundtracking me while I was writing this at 1:13 am.
 
 Be you,
+
 William Kitch
