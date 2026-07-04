@@ -16,3 +16,5 @@ Your content here.
 For local development, run `bundle install` once, then `bundle exec jekyll serve`.
 
 oh and thx freddie for the layout lol
+
+now githubs being a pain so this is here for a purposful push.
