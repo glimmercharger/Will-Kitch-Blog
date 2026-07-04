@@ -1,6 +1,6 @@
 I'm drawing my 3rd year at high school to a close, after seeing [@freddie's post](https://www.linkedin.com/posts/freddie-yershon_hippogriffs-blog-share-7475962481023102976-zZEJ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFLAk6UBxzH-3dntz8lyn0EqPQz2Ge0KZHM) about his reflection I thought I would do the same. 
 
-This year has completely changed how I think how of myself, while writing this I took some time to self reflect this year.
+This year has completely changed how I think of myself, while writing this I took some time to self reflect this year.
 
 
 At the start of this year I started my own Hack Club with Freddie, our club has grown since the start of the year, we started with our group of friends (some of which even I didn't even know), then fast forward to now, nearer the end of this year word spread and more people joined us. 
