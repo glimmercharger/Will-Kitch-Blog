@@ -3,7 +3,7 @@ I'm drawing my 3rd year at high school to a close, after seeing [@freddie's post
 This year has completely changed how I think how of myself, while writing this I took some time to self reflect this year.
 
 
-At the start of this year I started my own Hack Club with Freddie, our club has grown since the start of the year, we started our group of friends (some of which even I didn't even know) were going, then fast forward to now, nearer the end of this year word spread and more people joined us. 
+At the start of this year I started my own Hack Club with Freddie, our club has grown since the start of the year, we started with our group of friends (some of which even I didn't even know), then fast forward to now, nearer the end of this year word spread and more people joined us. 
 
 Everything changed when the month of March came around, firstly because it was my birthday and secondly, we had seen the program Vibes, using AI to aid you in making a website, now within the Hack Club community the opinions of the program varied, some thought (and still do) think that the program encourages Vibecoding for clubs. Moving past this view, we decided to start a workshop, now apart from one of our members causing a "safeguarding" concern according to School AI, the club loved taking part and they are some of the funniest sites we've made as a club. 
 
