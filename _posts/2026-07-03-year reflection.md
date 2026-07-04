@@ -17,7 +17,7 @@ That kinda summarises how my relevance in Hack Club changed over the course of t
 
 Academically too, this year was also the year I picked my GCSEs for year 10 and 11, in my head I still think it's years away. I realise now time moves quicker then I think it does next it feels like not long ago I was a year 7 starting high school but now being in year 9 going into my GCSE studies in a few short weeks does raise my anxiety levels a bit. I know that I have people I can talk to and ask for help when I need it but I need to recognise and ask for support when I really need it.
 
-I also met some of my best friends this year too. Hi Safia, She probably predicted she would be on this list, but I met Safia for the first time at a in person Hack Club event called Daydream, she was probably the first person I met from Hack Club too, in March this year I met her again at an event called Campfire. Alfie that mic is mine by the way. 
+I also met some of my best friends this year too. Hi Safia, she probably predicted she would be on this list, but I met Safia for the first time at a in person Hack Club event called Daydream, she was probably the first person I met from Hack Club too, in March this year I met her again at an event called Campfire. Alfie that mic is mine by the way. 
 
 Also to the person who I won't name but he'll know who he is, thank you for helping me with my writing and always helping me to change a somewhat put together sentence into one that looks a lot better. Also to all of my teachers this year who have helped me with the subjects I struggle with, helped me understand things I didn't understand and helped me improve my test scores this year, thank you (even though I know non of them will read this.)
 
